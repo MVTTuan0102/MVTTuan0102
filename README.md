@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/MVTTuan0102">
-	<img src="https://avatars.githubusercontent.com/u/79617804" width = "200" alt="Tuan">
+	
 	</a>
 </p>
 
