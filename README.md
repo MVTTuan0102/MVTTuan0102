@@ -69,10 +69,7 @@
 <hr>
 <br>
 
-## <p align="center">Just a snake eating my contributions</p>
-<p align='center'>
-<img src="https://github.com/MVTTuan0102/MVTTuan012/blob/output/github-contribution-grid-snake.svg">
-</p>
+
 
 <hr>
 <br>
